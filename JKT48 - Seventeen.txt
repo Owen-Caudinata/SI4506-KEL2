@@ -27,13 +27,4 @@ Sekarang menjadi minimarket
 Saatku intip ke balik jendela
 Kamu berdiri di kasir counter
 
-<<<<<<< HEAD
-Cita citamu menjadi seorang hairstylist
-=======
-[Pre-Chorus]
-Cita-citamu menjadi seorang hair stylist
-Waktu itu kamu pernah bercerita
-Walau tak seperti yang kamu bayangkan
-Kamu terlihat bahagia
-Aku jadi lega
->>>>>>> b356b6af00e4fd14adda988022ad450adef5d15b
+
